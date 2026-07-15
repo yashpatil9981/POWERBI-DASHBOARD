@@ -1,31 +1,97 @@
-# Power BI Dashboard Portfolio
+# 📊 Power BI Dashboard Portfolio
 
-## 📊 Overview
-This repository contains my Power BI dashboard projects built using real-world datasets.
+Welcome to my Power BI portfolio. This repository showcases interactive dashboards built using real-world datasets to solve business problems through data visualization and analytics.
 
-## 📁 Projects Included
-- Healthcare Dashboard
-- Business Finance Dashboard
+---
 
-## 🛠 Tools & Technologies
+# 🏥 Healthcare Dashboard
+
+## 📌 Overview
+
+A complete healthcare analytics dashboard built in Power BI to monitor patient data, appointments, doctor performance, and hospital KPIs.
+
+### 🛠 Technologies Used
+
 - Power BI
-- Power Query
 - DAX
+- Power Query
 - Microsoft Excel
 
-## 📈 Dashboard Features
+### ✨ Features
+
 - Interactive KPI Cards
-- Slicers & Filters
 - Drill Through
+- Slicers & Filters
 - Data Cleaning
-- Data Visualization
+- Data Modeling
 - Custom Charts
 
-## 📂 Repository Files
-- Yash Patil Healthcare Dashboard.pdf
-- Yash Patil Business Finance Dashboard.pdf
+## 📸 Dashboard Preview
 
-## 👨‍💻 Author
+![Healthcare Dashboard 1](Healthcare_Dashboard_Page_1.png)
+
+![Healthcare Dashboard 2](Healthcare_Dashboard_Page_2.png)
+
+![Healthcare Dashboard 3](Healthcare_Dashboard_Page_3.png)
+
+![Healthcare Dashboard 4](Healthcare_Dashboard_Page_4.png)
+
+---
+
+# 💰 Business Finance Dashboard
+
+## 📌 Overview
+
+A business finance dashboard designed to analyze revenue, profit, expenses, and financial performance using interactive visualizations.
+
+### 🛠 Technologies Used
+
+- Power BI
+- DAX
+- Power Query
+- Microsoft Excel
+
+### ✨ Features
+
+- Revenue Analysis
+- Profit Analysis
+- Financial KPIs
+- Interactive Filters
+- Dynamic Charts
+
+## 📸 Dashboard Preview
+
+![Business Finance Dashboard 1](Business_Finance_Dashboard_Page_1.png)
+
+![Business Finance Dashboard 2](Business_Finance_Dashboard_Page_2.png)
+
+---
+
+# 📂 Repository Contents
+
+- 📄 README.md
+- 🖼 Dashboard Preview Images
+- 📑 Dashboard PDF Files
+
+---
+
+# 🚀 Skills Demonstrated
+
+- Data Visualization
+- Business Intelligence
+- Power BI
+- DAX
+- Power Query
+- Data Cleaning
+- Data Modeling
+- KPI Dashboard Design
+
+---
+
+# 👨‍💻 Author
+
 **Yash Patil**
 
-If you found this repository useful, please give it a ⭐.
+📊 Aspiring Data Analyst | Power BI Developer
+
+⭐ If you like this project, consider giving it a Star!
