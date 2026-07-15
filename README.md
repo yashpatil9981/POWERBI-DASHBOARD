@@ -1,6 +1,6 @@
 # 📊 Power BI Dashboard Portfolio
 
-> **Interactive Power BI dashboards built using real-world datasets to transform raw data into actionable business insights through visualization, reporting, and analytics.**
+Welcome to my Power BI Dashboard Portfolio. This repository showcases interactive dashboards developed using real-world datasets to deliver meaningful business insights through data visualization, reporting, and analytics.
 
 ---
 
@@ -14,18 +14,18 @@
 
 ### 📌 Project Overview
 
-This dashboard provides an interactive view of business financial performance, helping stakeholders monitor revenue, profit, expenses, loan performance, and other key financial metrics.
+An interactive Power BI dashboard designed to analyze financial performance using dynamic KPIs, revenue trends, loan analysis, and executive-level reports.
 
 ### ✨ Key Features
 
 - 💰 Revenue & Profit Analysis
-- 📊 Executive KPI Cards
-- 📅 Dynamic Date Filters
-- 📈 Time Intelligence Analysis
+- 📊 Executive KPI Dashboard
+- 💳 Loan Performance Tracking
+- 📈 Trend Analysis
+- 📅 Time Intelligence
 - 🎯 Interactive Slicers
 - 🔍 Drill Through Reports
-- 📉 Financial Trend Analysis
-- 📌 Business Performance Monitoring
+- 📌 Business Insights
 
 ---
 
@@ -43,27 +43,27 @@ This dashboard provides an interactive view of business financial performance, h
 
 ### 📌 Project Overview
 
-An interactive healthcare analytics dashboard designed to monitor patient information, hospital performance, appointments, revenue, and operational KPIs.
+A comprehensive healthcare analytics dashboard developed to monitor patient information, hospital operations, doctor performance, and revenue using interactive visualizations.
 
 ### ✨ Key Features
 
 - 📈 KPI Cards
 - 👨‍⚕️ Patient Analytics
-- 💊 Hospital Performance
+- 🏥 Department Performance
 - 📅 Interactive Slicers
 - 🔍 Drill Through Reports
 - 📊 Dynamic Charts
-- 💰 Revenue Analysis
-- 📌 Department-wise Insights
+- 💰 Revenue Dashboard
+- 📌 Operational Insights
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Tools & Technologies
 
 - 📊 Power BI Desktop
 - ⚡ Power Query
 - 📐 DAX
-- 📑 Microsoft Excel
+- 📄 Microsoft Excel
 
 ---
 
@@ -77,18 +77,18 @@ An interactive healthcare analytics dashboard designed to monitor patient inform
 - KPI Development
 - DAX Measures
 - Power Query
-- Interactive Reporting
 - Business Intelligence
+- Interactive Reporting
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 About the Author
 
 **Yash Patil**
 
 🎓 Bachelor of Engineering – Computer Science & Business Systems
 
-💼 Data Analyst | Power BI Developer
+💼 Aspiring Data Analyst | Power BI Developer
 
 📍 Belagavi, Karnataka, India
 
@@ -100,4 +100,4 @@ An interactive healthcare analytics dashboard designed to monitor patient inform
 
 ## ⭐ Support
 
-If you found these dashboards useful, consider giving this repository a **Star ⭐**.
+If you found this repository useful, consider giving it a **Star ⭐**.
