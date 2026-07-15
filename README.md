@@ -1,12 +1,37 @@
 # 📊 Power BI Dashboard Portfolio
 
-Welcome to my **Power BI Dashboard Portfolio**. This repository showcases interactive dashboards built using real-world datasets to solve business problems through data visualization and analytics.
+> **Interactive Power BI dashboards built using real-world datasets to transform raw data into actionable business insights through visualization, reporting, and analytics.**
+
+---
+
+# 💼 Business Finance Dashboard
+
+### 📷 Dashboard Preview
+
+![Business Finance Dashboard Page 1](Business_Finance_Dashboard_Page_1.png)
+
+![Business Finance Dashboard Page 2](Business_Finance_Dashboard_Page_2.png)
+
+### 📌 Project Overview
+
+This dashboard provides an interactive view of business financial performance, helping stakeholders monitor revenue, profit, expenses, loan performance, and other key financial metrics.
+
+### ✨ Key Features
+
+- 💰 Revenue & Profit Analysis
+- 📊 Executive KPI Cards
+- 📅 Dynamic Date Filters
+- 📈 Time Intelligence Analysis
+- 🎯 Interactive Slicers
+- 🔍 Drill Through Reports
+- 📉 Financial Trend Analysis
+- 📌 Business Performance Monitoring
 
 ---
 
 # 🏥 Healthcare Dashboard
 
-### Dashboard Preview
+### 📷 Dashboard Preview
 
 ![Healthcare Dashboard Page 1](Healthcare_Dashboard_Page_1.png)
 
@@ -16,69 +41,63 @@ Welcome to my **Power BI Dashboard Portfolio**. This repository showcases intera
 
 ![Healthcare Dashboard Page 4](Healthcare_Dashboard_Page_4.png)
 
-### Features
+### 📌 Project Overview
+
+An interactive healthcare analytics dashboard designed to monitor patient information, hospital performance, appointments, revenue, and operational KPIs.
+
+### ✨ Key Features
+
 - 📈 KPI Cards
+- 👨‍⚕️ Patient Analytics
+- 💊 Hospital Performance
 - 📅 Interactive Slicers
-- 📊 Charts & Graphs
-- 🔍 Drill Through
-- 📌 Patient Analytics
-- 📉 Revenue Analysis
-
----
-
-# 💼 Business Finance Dashboard
-
-### Dashboard Preview
-
-![Business Finance Dashboard Page 1](Business_Finance_Dashboard_Page_1.png)
-
-![Business Finance Dashboard Page 2](Business_Finance_Dashboard_Page_2.png)
-
-### Features
+- 🔍 Drill Through Reports
+- 📊 Dynamic Charts
 - 💰 Revenue Analysis
-- 💳 Loan Performance
-- 📈 Profit & Loss
-- 📊 Financial KPIs
-- 📅 Time Intelligence
-- 🎯 Interactive Filters
+- 📌 Department-wise Insights
 
 ---
 
-# 🛠 Tools & Technologies
+# 🛠 Tech Stack
 
-- Power BI
-- Power Query
-- DAX
-- Microsoft Excel
+- 📊 Power BI Desktop
+- ⚡ Power Query
+- 📐 DAX
+- 📑 Microsoft Excel
 
 ---
 
-# ✨ Skills Demonstrated
+# 🚀 Skills Demonstrated
 
 - Data Cleaning
+- Data Transformation
 - Data Modeling
 - Data Visualization
-- DAX Measures
-- Power Query
 - Dashboard Design
 - KPI Development
+- DAX Measures
+- Power Query
 - Interactive Reporting
+- Business Intelligence
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 About Me
 
 **Yash Patil**
 
-🎓 B.E. Computer Science & Business Systems
-
-📍 Belagavi, Karnataka, India
+🎓 Bachelor of Engineering – Computer Science & Business Systems
 
 💼 Data Analyst | Power BI Developer
 
-GitHub:
-https://github.com/yashpatil9981
+📍 Belagavi, Karnataka, India
+
+📧 yash987patil654@gmail.com
+
+🔗 GitHub: https://github.com/yashpatil9981
 
 ---
 
-⭐ If you like this repository, don't forget to Star it.
+## ⭐ Support
+
+If you found these dashboards useful, consider giving this repository a **Star ⭐**.
